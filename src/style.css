@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+header{
+    background: #F55A5A;
+    height: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.app{
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    height: 1000px;
+    background: white;
+}
+
+
+
+.placeImg{
+    height: 170px;
+    width: 155px;
+    padding: 50px;
+    border-radius: 60px;
+    margin-bottom: -50px;
+}
+
+.locationIcon{
+    color: red;
+    height: 11.24px;
+}
+
+.country{
+    position: relative;
+    left: 225px;
+    bottom: 175px;
+    
+}
+
+.nepal{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+
+color: #2B283A;
+}
+
+.link{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    
+}
+
+.location{
+    position: relative;
+    left: 225px;
+    bottom: 175px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26x;
+    line-height: 30px;
+    margin-bottom: -50px;
+
+    color: #2B283A;
+}
+
+.date{
+    position: relative;
+    left: 225px;
+    bottom: 135px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11.24px;
+    line-height: 12px;
+    margin-bottom: -50px;
+
+    color: #2B283A;
+}
+
+
+
+.description{
+    position: relative;
+    left: 225px;
+    bottom: 90px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+    width: 55%;
+    margin-bottom: -50px;
+}
+
